@@ -114,7 +114,19 @@ After starting:
 ```text
 http://localhost:8000/dashboard
 ```
+## 📸 Dashboard Preview
 
+PRISM provides a real-time predictive maintenance dashboard for monitoring CNC machines, sensor health, anomaly detection, and risk intelligence.
+
+### Features Shown
+- Live machine monitoring  
+- Risk score visualization  
+- Temperature, Vibration, Speed and Current metrics  
+- Normal / Watch / Alert / Critical states  
+- Real-time operational alerts  
+- Machine-level health summaries  
+
+![PRISM Dashboard](https://raw.githubusercontent.com/Karthiktelagi/prism/main/dashboard.png)
 ---
 
 ## 📊 Use Cases
@@ -151,7 +163,7 @@ Can be deployed using:
 ## 👨‍💻 Author
 
 **Karthik TS, Dhanushree G , Greeshma**  
-Cybersecurity & AI Enthusiast  
+Cybersecurity & AI Enthusiast 
 GitHub: https://github.com/Karthiktelagi
 
 ---
